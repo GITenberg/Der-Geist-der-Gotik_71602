@@ -1,11 +1,16 @@
 _repo: Der-Geist-der-Gotik_71602
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71602-h/images/cover.jpg
 creator:
   author:
     agent_name: Scheffler, Karl
     gutenberg_agent_id: '56298'
     url: http://www.gutenberg.org/2009/agents/56298
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71602#Der-Geist-der-Gotik
 gutenberg_issued: '2023-09-09'
 identifiers:
   gutenberg: '71602'
